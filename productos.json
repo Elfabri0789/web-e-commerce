@@ -1,0 +1,275 @@
+
+[
+    {
+        "id": "lenceria-01",
+        "titulo": "Conjunto Nina",
+        "imagen": "img/lenceria/NINA CAJA Y DESCRIPCION.png",
+        "categoria": {
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "lenceria-02", 
+        "titulo": "Conjunto Amelie",
+        "imagen": "img/lenceria/AMALIE DESCRIPCION.png",       
+        "categoria": {        
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "lenceria-03",
+        "titulo": "Conjunto Juana",
+        "imagen": "img/lenceria/JUANA CAJA.png",
+        "categoria": {
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "lenceria-04",
+        "titulo": "Conjunto Freya",
+        "imagen": "img/lenceria/FREYA CAJA.png",
+        "categoria": {
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "lenceria-05",
+       "titulo": "Conjunto Lola",
+        "imagen": "img/lenceria/LOLA CAJA.png",
+        "categoria": {
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "lenceria-06",
+        "titulo": "Conjunto Alma",
+        "imagen": "img/lenceria/ALMA CAJA.png",
+        "categoria": {
+            "nombre": "Lenceria",
+            "id": "lenceria"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "hombre-01",
+        "titulo": "invictus - Paco Rabanne",
+        "imagen": "img/hombre/invictus.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-02",
+        "titulo": "One Million - Paco Rabane",
+        "imagen": "img/hombre/one million.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+      "precio": 4500
+    },
+    {
+        "id": "hombre-03",
+        "titulo": "Blue Seduction ",
+        "imagen": "img/hombre/blue seduction.jpeg",
+        "categoria": {
+          "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-04",
+        "titulo": "Tommy boys -Tommy",
+        "imagen": "img/hombre/tommyboy.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-05",
+        "titulo": " Black XS - Paco Rabanne",
+        "imagen": "img/hombre/tommyboy.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-06",
+        "titulo": "Kenzo Men- Kenzo",
+        "imagen": "img/hombre/kenzohombre.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+     "precio": 4500
+    },
+    {
+        "id": "hombre-07",
+        "titulo": "Polo Blue - Polo",
+        "imagen": "img/hombre/polo.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-08",
+        "titulo": "Sauvage- Dior",
+        "imagen": "img/hombre/sauvage.jpeg",
+        "categoria": {
+        "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "hombre-09",
+        "titulo": "212 -Carolina herrera",
+        "imagen": "img/hombre/212hombre.jpeg",
+        "categoria": {
+          "nombre": "Fragancia Hombre",
+            "id": "hombre"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "mujer-01",
+        "titulo": "La Vida Es Bella - Lancone",
+        "imagen": "img/mujer/la vida es bella.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "mujer-02",
+        "titulo": "Jádore - Dior",
+        "imagen": "img/mujer/jardore.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "mujer-03",
+        "titulo": "Flower - Kenzo",
+        "imagen": "img/mujer/flowers.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+     "precio": 4500
+    },
+    {
+        "id": "mujer-04",
+        "titulo": "212 sexy - CH",
+        "imagen": "img/mujer/212sexy.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+       "precio": 4500
+    },
+    {
+        "id": "mujer-05",
+        "titulo": "Versace - Versace",
+        "imagen": "img/mujer/versace.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+        "precio": 4500
+    },
+
+    {
+        "id": "mujer-06",
+        "titulo": "Olimpia - Paco Rabanne",
+        "imagen": "img/mujer/olympia.jpeg",
+        "categoria": {
+           "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+      "precio": 4500
+    },
+
+    {
+        "id": "mujer-06",
+        "titulo": "Lady Milion - P. Rabenne",
+        "imagen": "img/mujer/ladymilliom.jpeg",
+        "categoria": {
+            "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+        "precio": 4500
+    },
+
+    {
+        "id": "mujer-08",
+        "titulo": "Dolce & Gabana  ",
+        "imagen": "img/mujer/dolcegabana.jpeg",
+        "categoria": {
+          "nombre": "Fragancia Mujer",
+            "id": "mujer"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "emprendedor-01",
+        "titulo": "Kit Saphirus 36 Productos",
+        "imagen": "img/emprendedor/safirus emprendedor.jpg",
+        "categoria": {
+             "nombre": "Emprendedor",
+            "id": "emprendedor"
+        },
+        "precio": 110000
+    },
+    {
+        "id": "emprendedor-02",
+        "titulo": "Pack 10 Perfumes",
+        "imagen": "img/emprendedor/packperfumes.jpeg",
+        "categoria": {
+            "nombre": "Emprendedor",
+            "id": "emprendedor"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "emprendedor-03",
+        "titulo": "Pack 10 Conjuntos",
+        "imagen": "img/emprendedor/packconjuntos.jpeg",
+        "categoria": {
+            "nombre": "Emprendedor",
+            "id": "emprendedor"
+        },
+        "precio": 80000
+    },
+    {
+        "id": "emprendedor-04",
+        "titulo": "Difisor Auto 9cc",
+        "imagen": "img/emprendedor/difusor auto 9cc completo.jpg",
+        "categoria": {
+            "nombre": "Emprendedor",
+            "id": "emprendedor"
+        }
+    }
+]
